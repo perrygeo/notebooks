@@ -1,0 +1,8 @@
+rasterio>=1.0a12
+fiona
+shapely
+rasterstats
+seaborn
+geopandas
+mapboxgl
+jupyter

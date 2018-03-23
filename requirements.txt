@@ -1,8 +1,11 @@
-rasterio>=1.0a12
 fiona
-shapely
-rasterstats
-seaborn
 geopandas
-mapboxgl
 jupyter
+mapbox
+mapboxgl
+pysal
+rasterio>=1.0a12
+rasterstats
+scipy
+seaborn
+shapely
